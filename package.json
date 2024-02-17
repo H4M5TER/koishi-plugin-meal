@@ -1,7 +1,7 @@
 {
-  "name": "koishi-plugin-meal",
+  "name": "@h4m5ter/koishi-plugin-meal",
   "description": "用于抽取一套完整的配餐",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
